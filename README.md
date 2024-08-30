@@ -1,8 +1,11 @@
 Node Wallet
 
 git clone https://github.com/Avishek01-tiwari/NodeWallet-api.git
+
 npm install it install the dependencies
+
 npm start to start the server
+
 Use postman to test out the API's
 
 To run locally create .env file in root directory and add these fields
